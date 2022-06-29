@@ -3,6 +3,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Post from './components/Post';
 function App() {
+  
   // const [user, setUser] = useState();
   // const [pictures, setPictures] = useState([]);
 
